@@ -1,1 +1,1 @@
-# chi_home.github.com.io
+# chi_home.github.io
